@@ -1,0 +1,2 @@
+Bitirme projemiz için yaptığımız bu projede 2 adet İHA'lar arası güvenli haberleşme protokolü geliştirdik. bunlardan biri (drone_aes dosyasındaki) aes şifrleme mantığını kullanarak aynı zamanda ecc ile key oluşturan hibrit bir protokol. diğeri ise tamamen ecc ile şifreleme yapan ve key oluşturan, e-imza kullanılan bir protokol.
+Projemiz DJI Tello drone'u ile denenmiş oluş başarılı sonuçlar elde etmiştir. drone ie çekilen fotoğraflar iki protokol ile de güvenli bir şekildd şifrelenmiştir.
