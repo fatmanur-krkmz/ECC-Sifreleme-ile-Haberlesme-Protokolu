@@ -39,4 +39,4 @@ with open('private_key.json', 'w') as file:
 
 print(f"Public Key: {compressed_public_key}")
 print("Public key public_key.json dosyasına kaydedildi.")
-print("Private key private_key_encrypted.json dosyasına şifrelenmiş olarak kaydedildi.")
+print("Private key private_key.json dosyasına şifrelenmiş olarak kaydedildi.")
